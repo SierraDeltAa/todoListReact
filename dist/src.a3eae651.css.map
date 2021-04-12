@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,aACI,YAAa,CACb,kBAAmB,CACnB,6BAA8B,CAC9B,aACJ","file":"src.a3eae651.css","sourceRoot":"..\\src","sourcesContent":["\r\n.customTasks{\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: space-between;\r\n    margin: 20px 0px;\r\n}\r\n"]}
